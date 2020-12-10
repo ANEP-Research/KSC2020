@@ -8,7 +8,7 @@
 </div>
 
 ## Notice
-위 논문과 본문에서 path라고 명시되어있는 것은, 정점들이 distinct한 보장이 없는 walk입니다. distinct한 것은, 따로 simple path라는 맥락에서 서술하였으니 양해 부탁 드립니다.
+Minor reversion 이전 논문(본문)에서 path라고 명시되어있는 것은, 정점들이 distinct한 보장이 없는 walk입니다. distinct한 것은, 따로 simple path라는 맥락에서 서술하였으니 양해 부탁 드립니다.
 
 ## Presentation materials
 You can download presentation material(s) (*.pdf) in [here](./KSC2020_6.pdf)
